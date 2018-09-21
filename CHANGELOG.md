@@ -11,11 +11,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Optional intro comment.
 
-- Added: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.calendar/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.calendar/issues/)
-- Changed: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.calendar/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.calendar/issues/)
-- Removed: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.calendar/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.calendar/issues/)
-- Fixed: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.calendar/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.calendar/issues/)
-- Security: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.calendar/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.calendar/issues/)
+- Added: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/issues/)
+- Changed: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/issues/)
+- Removed: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/issues/)
+- Fixed: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/issues/)
+- Security: Abc ([#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/pull/)), fixes [#](https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/issues/)
 
  -->
 
@@ -25,4 +25,4 @@ Optional intro comment.
 
 
 
-<!--[Unreleased]: https://github.com/JonasWanke/com.jonaswanke.calendar/compare/v0.0.1...dev-->
+<!--[Unreleased]: https://github.com/JonasWanke/com.jonaswanke.TreeRecyclerView/compare/v0.0.1...dev-->
