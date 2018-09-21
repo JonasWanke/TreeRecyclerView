@@ -8,6 +8,8 @@ buildscript {
 
         versionName = '0.0.0'
         versionCode = 0
+
+        detektVersion = "1.0.0.RC8"
     }
 
     repositories {
