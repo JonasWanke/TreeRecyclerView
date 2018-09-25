@@ -2,6 +2,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
+kotlin.experimental.coroutines "enable"
+
 android {
     buildToolsVersion rootProject.buildToolsVersion
     compileSdkVersion rootProject.compileSdkVersion
@@ -35,11 +37,16 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlinVersion"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:0.22.5"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:0.22.3"
 
     // AndroidX
     // architecture
     implementation 'androidx.appcompat:appcompat:1.0.0-rc02'
     implementation 'androidx.core:core-ktx:1.0.0-rc02'
+    implementation 'androidx.lifecycle:lifecycle-livedata:2.0.0-rc01'
+    // ui
+    implementation 'androidx.recyclerview:recyclerview:1.0.0-rc02'
 
     // Testing
     testImplementation 'junit:junit:4.12'

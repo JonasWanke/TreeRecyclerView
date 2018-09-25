@@ -5,6 +5,8 @@
     <string name="main_drawer_open">Open navigation drawer</string>
     <string name="main_drawer_close">Close navigation drawer</string>
 
+    <string name="folder_name">Folder %d</string>
+
     <string name="drawer_info_creator">Created by Jonas Wanke</string>
     <string name="drawer_info_contact">contact@jonas-wanke.com</string>
 
