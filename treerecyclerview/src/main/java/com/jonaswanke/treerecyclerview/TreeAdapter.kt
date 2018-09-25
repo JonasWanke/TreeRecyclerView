@@ -146,6 +146,7 @@ abstract class TreeAdapter<T, VH : TreeAdapter.TreeViewHolder>(
             currentNode = parent
             parent = currentNode.parent
         }
+        position += _children.take(_children.indexOf(currentNode)).sumBy { it.totalSize }
         return if (start) position else position + node.totalSize
     }
 
